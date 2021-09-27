@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/1oupd](https://github.com/1oupd)
-
 - 📫 How to reach me **loupd.dev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
