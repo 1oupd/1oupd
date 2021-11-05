@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Code Nation's bootcamp!**
 
-- 🌱 I’m currently learning **javascript, React, and using APIs**
+- 🌱 I’m currently learning **React and MongoDB**
 
 - 📫 How to reach me **loupd.dev@outlook.com**
 
