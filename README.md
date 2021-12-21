@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lou! (they/them)</h1>
-<h3 align="center">Junior developer, always looking for new ways to evolve</h3>
+<h3 align="center">Junior front-end developer, always looking for new ways to evolve</h3>
 
-- 🔭 I’m currently working on **Code Nation's bootcamp!**
+<!-- - 🔭 I’m currently working on **    !** -->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React native**
 
 - 📫 How to reach me **loupd.dev@outlook.com**
 
