@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lou! (they/them)</h1>
+<h1 align="center">Hi 👋, I'm Erin! (they/them)</h1>
 <h3 align="center">Junior front-end developer, always looking for new ways to evolve</h3>
 
 <!-- - 🔭 I’m currently working on **    !** -->
